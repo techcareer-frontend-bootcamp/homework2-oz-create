@@ -1,0 +1,30 @@
+/* Social Media */
+
+.social-media {
+          position: fixed;
+          right: 10px;
+          bottom: 0;
+          background-color: $first-color;
+          padding: 0.75rem 1.5rem 0.35rem;
+          border-top-left-radius: 15px;
+          border-top-right-radius: 15px;
+
+          i {
+                    color: $white-color;
+                    font-size: 30px;
+                    margin: 0 7px;
+
+                    &:hover {
+                              color: $dark-color; 
+                              /* opacity: 0.5; */
+                            }
+                  }
+        }
+        
+       
+        
+        
+        
+          
+      
+        
